@@ -1,0 +1,27 @@
+.form-group input{
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid #ced4da;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    background-color:aliceblue ;
+  }
+  .form-group input:focus{
+    background-color:white;
+  }
+  #course,#text1{
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid #ced4da;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    background-color:aliceblue ;
+
+
+  }
+  #course,#text1:focus{
+    background-color: white;
+  }
+  
